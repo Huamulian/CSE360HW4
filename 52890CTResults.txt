@@ -1,0 +1,6 @@
+The total Agatston CAC score: 45
+LM : 17
+LAD: 13
+LCX: 5
+RCA: 7
+PDA: 3
